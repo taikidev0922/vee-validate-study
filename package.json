@@ -13,7 +13,9 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@grapecity/wijmo.vue2.all": "^5.20232.939",
     "@mdi/font": "^7.4.47",
+    "@vee-validate/yup": "^4.12.6",
     "nuxt": "^3.10.3",
     "vee-validate": "^4.12.6",
     "vue": "^3.4.21",
